@@ -3,7 +3,7 @@ This repo involves codes on application of Arduino UNO to GPS guided unmanned ve
 
 Published in: 2017 10th International Conference on Electrical and Electronics Engineering (ELECO)
 
-If you use these codes please site: 
+If you use these codes please cite: 
 
 T. Bozik and G. Gurkan, "An Arduino UNO application: GPS guided unmanned ground vehicle," 2017 10th International Conference on Electrical and Electronics Engineering (ELECO), Bursa, Turkey, 2017, pp. 852-855.
 
