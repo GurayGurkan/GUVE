@@ -8,3 +8,5 @@ If you use these codes please cite:
 T. Bozik and G. Gurkan, "An Arduino UNO application: GPS guided unmanned ground vehicle," 2017 10th International Conference on Electrical and Electronics Engineering (ELECO), Bursa, Turkey, 2017, pp. 852-855.
 
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8266283&isnumber=8266128
+
+For suggestions and questions, please e-mail to: **guraygurkan@istanbul.edu.tr**.
